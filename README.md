@@ -167,9 +167,9 @@ This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 
 Kusuma Kumari Bodduluri
-GitHub: https://github.com/kusuma990/Flipkart_Review_Sentiment_Analysis
-Huggingface : https://huggingface.co/spaces/Kusuma990/Flipkart_Sentiment_Prediction
-LinkedIn: www.linkedin.com/in/kusuma-kumari-bodduluri
+- GitHub: https://github.com/kusuma990/Flipkart_Review_Sentiment_Analysis
+- Huggingface : https://huggingface.co/spaces/Kusuma990/Flipkart_Sentiment_Prediction
+- LinkedIn: www.linkedin.com/in/kusuma-kumari-bodduluri
 
 ---
 ## ⭐ Support
