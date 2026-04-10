@@ -11,7 +11,6 @@ The project demonstrates an end-to-end ML pipeline including:
 * Feature extraction (TF-IDF)
 * Model training
 * Model deployment using Flask
-* Experiment tracking using MLflow
 
 ---
 
@@ -36,7 +35,7 @@ Sentiment Analysis of Real-time Flipkart Product Reviews/
 ├── tfidf_vectorizer.pkl                    # TF-IDF vectorizer
 ├── requirements.txt                        # Dependencies
 ├── sentiment analysis of real time flipkart product reviews.ipynb  # Model training notebook
-└── README.md                               # Project documentation
+
 ```
 
 ---
@@ -56,6 +55,8 @@ Sentiment Analysis of Real-time Flipkart Product Reviews/
 ## 📥 Installation & Setup
 
 ### 1️⃣ Clone the Repository
+- create the folder in your system 'Flipkart_Review_Sentiment_Analysis'
+- after download all files give and then run on your system
 
 ```bash
 git clone https://github.com/kusuma990/Flipkart_Review_Sentiment_Analysis
@@ -104,20 +105,6 @@ http://127.0.0.1:5000
 5. Result is displayed on the web page
 
 ---
-
-## 📊 MLflow Tracking
-
-To start MLflow UI:
-
-```bash
-mlflow ui
-```
-
-Then open:
-
-```
-http://127.0.0.1:5000
-```
 
 You can view:
 
